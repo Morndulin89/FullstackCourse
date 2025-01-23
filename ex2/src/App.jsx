@@ -60,8 +60,11 @@ const StatisticLine = (props) => {
     return (
         <tr>
             <th colSpan="2">
-                {props.text}  {props.value}
+                {props.text}  
             </th>
+            <td>
+                {props.value}
+            </td>
         </tr>
     )
 }
