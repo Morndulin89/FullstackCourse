@@ -1,6 +1,7 @@
 # FullstackCourse
 Course materials for Fullstack Open-course provided by University of Helsinki
 
-1st exercises are about components and props and can be found in the ex1-folder. There is also a more in-detail readme-file and comments in the specified file (app.jsx)
-
-2nd exercises are about states and more on how to use components to clean up the code. There is also a more in-detail readMe-file and comments in the specified file (app.jsx)
+Part 1 has 3 exercises: 
+- 1st exercises are about components and props. (Exercises 1.1-1.5)
+- 2nd exercises are about states and more on how to use components to clean up the code. Also some html to set information in a table. (Exercises 1.6-1.11)
+- 3rd exercises are continuing on states and arrays. (Exercises 1.12-1.14)
