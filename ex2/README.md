@@ -1,8 +1,7 @@
 # React + Vite
+# Exercise on components, props and arrays
+This was the second exercise in the Fullstack-course provided by Helsinki University.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The main part of this exercise was to learn about states, adding buttons and tables and how to clean the code by using components for different parts of the application. 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The code can be found in src-folder in the "App.jsx"-file.
